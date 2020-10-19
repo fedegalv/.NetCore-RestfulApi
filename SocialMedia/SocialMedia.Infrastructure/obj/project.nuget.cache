@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4pm4/CYotcBNsgZyujQglcKZPNIWh+T/HRtHiE16HyMqbkI0LKaxlUrXd3YCTi+3YhsAYuqvSqDsd+LRuo9bg==",
+  "success": true,
+  "projectFilePath": "D:\\ASP. NET CORE\\.NetCore-RestfulApi\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedeg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fedeg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
